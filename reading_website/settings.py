@@ -14,7 +14,6 @@ from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 
 # Quick-start development settings - unsuitable for production
@@ -131,4 +130,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # upload file
 import os
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 MEDIA_URL = '/media/'
