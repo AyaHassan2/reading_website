@@ -1,3 +1,8 @@
 /Users/ayahassan/Desktop/graduation_project/Newgit/reading_website/model_net_plain_2/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 Users/ayahassan/Desktop/graduation_project/Newgit/reading_website/model_net_plain_2/variables/**/*.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 model_net_plain_2/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+/Users/ayahassan/Desktop/graduation_project/Newgit/reading_website/simmat3.csv filter=lfs diff=lfs merge=lfs -text
+git filter=lfs diff=lfs merge=lfs -text
+lfs filter=lfs diff=lfs merge=lfs -text
+track filter=lfs diff=lfs merge=lfs -text
+simmat3.csv filter=lfs diff=lfs merge=lfs -text
